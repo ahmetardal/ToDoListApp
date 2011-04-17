@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ToDoListAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1610, 921}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ToDoListAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2523, 1494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1880}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ToDoList */ = {
+		activeExec = 0;
+		executables = (
+			59874133135B39CD008E4545 /* ToDoList */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1610, 921}}";
+			sepNavSelRange = "{729, 0}";
+			sepNavVisRange = "{0, 729}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ToDoListViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{466, 231}\";\n            s = 0;\n        },\n                {\n            r = \"{741, 313}\";\n            s = 0;\n        },\n                {\n            r = \"{1151, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{1205, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{1270, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{1292, 118}\";\n            s = 0;\n        },\n                {\n            r = \"{1488, 303}\";\n            s = 0;\n        },\n                {\n            r = \"{1825, 615}\";\n            s = 0;\n        },\n                {\n            r = \"{2593, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{2702, 32}\";\n            s = 0;\n        },\n                {\n            r = \"{2842, 479}\";\n            s = 0;\n        },\n                {\n            r = \"{3439, 54}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3501}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1610, 1296}}";
+			sepNavSelRange = "{7, 8}";
+			sepNavVisRange = "{0, 810}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 59874133135B39CD008E4545 /* ToDoList */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ToDoList */;
+		codeSenseManager = 59874144135B39EA008E4545 /* Code sense */;
+		executables = (
+			59874133135B39CD008E4545 /* ToDoList */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1432,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324745910;
+			PBXWorkspaceStateSaveDate = 324745910;
+		};
+		perUserProjectItems = {
+			5980D55B135B5D1A00B355D0 /* PBXTextBookmark */ = 5980D55B135B5D1A00B355D0 /* PBXTextBookmark */;
+			5980D55C135B5D1A00B355D0 /* PBXTextBookmark */ = 5980D55C135B5D1A00B355D0 /* PBXTextBookmark */;
+			5980D561135B5D1F00B355D0 /* PBXTextBookmark */ = 5980D561135B5D1F00B355D0 /* PBXTextBookmark */;
+			5980D563135B5D1F00B355D0 /* PBXTextBookmark */ = 5980D563135B5D1F00B355D0 /* PBXTextBookmark */;
+			5980D564135B5D1F00B355D0 /* PBXTextBookmark */ = 5980D564135B5D1F00B355D0 /* PBXTextBookmark */;
+			5980D565135B5D1F00B355D0 /* PBXTextBookmark */ = 5980D565135B5D1F00B355D0 /* PBXTextBookmark */;
+			5980D568135B5DA900B355D0 /* PBXTextBookmark */ = 5980D568135B5DA900B355D0 /* PBXTextBookmark */;
+			5980D569135B5DA900B355D0 /* PBXTextBookmark */ = 5980D569135B5DA900B355D0 /* PBXTextBookmark */;
+			5980D56A135B5DA900B355D0 /* PBXTextBookmark */ = 5980D56A135B5DA900B355D0 /* PBXTextBookmark */;
+			5980D56B135B5DA900B355D0 /* PBXTextBookmark */ = 5980D56B135B5DA900B355D0 /* PBXTextBookmark */;
+			5980D570135B5EB700B355D0 /* PBXTextBookmark */ = 5980D570135B5EB700B355D0 /* PBXTextBookmark */;
+			5980D571135B5F3D00B355D0 /* PBXTextBookmark */ = 5980D571135B5F3D00B355D0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 59874143135B39EA008E4545 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5980D55B135B5D1A00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */;
+		name = "ToDoListViewController.h: 13";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 151;
+	};
+	5980D55C135B5D1A00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */;
+		name = "ToDoListViewController.h: 13";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 140;
+	};
+	5980D561135B5D1F00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5980D562135B5D1F00B355D0 /* NSPathUtilities.h */;
+		name = "NSPathUtilities.h: 65";
+		rLen = 69;
+		rLoc = 2573;
+		rType = 0;
+		vrLen = 3705;
+		vrLoc = 1170;
+	};
+	5980D562135B5D1F00B355D0 /* NSPathUtilities.h */ = {
+		isa = PBXFileReference;
+		name = NSPathUtilities.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPathUtilities.h;
+		sourceTree = "<absolute>";
+	};
+	5980D563135B5D1F00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToDoListViewController.m */;
+		name = "ToDoListViewController.m: 6";
+		rLen = 11;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 2529;
+		vrLoc = 0;
+	};
+	5980D564135B5D1F00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */;
+		name = "ToDoListViewController.h: 13";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 0;
+	};
+	5980D565135B5D1F00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */;
+		name = "ToDoListViewController.h: 27";
+		rLen = 0;
+		rLoc = 729;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 0;
+	};
+	5980D568135B5DA900B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ToDoListAppDelegate.h */;
+		name = "ToDoListAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	5980D569135B5DA900B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ToDoListAppDelegate.m */;
+		name = "ToDoListAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1880;
+		vrLoc = 0;
+	};
+	5980D56A135B5DA900B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ToDoListViewController.h */;
+		name = "ToDoListViewController.h: 27";
+		rLen = 0;
+		rLoc = 729;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 0;
+	};
+	5980D56B135B5DA900B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToDoListViewController.m */;
+		name = "ToDoListViewController.m: 137";
+		rLen = 0;
+		rLoc = 3501;
+		rType = 0;
+		vrLen = 3109;
+		vrLoc = 389;
+	};
+	5980D570135B5EB700B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToDoListViewController.m */;
+		name = "ToDoListViewController.m: 39";
+		rLen = 0;
+		rLoc = 945;
+		rType = 0;
+		vrLen = 2276;
+		vrLoc = 180;
+	};
+	5980D571135B5F3D00B355D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ToDoListViewController.m */;
+		name = "ToDoListViewController.m: 2";
+		rLen = 8;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 1824;
+		vrLoc = 0;
+	};
+	59874133135B39CD008E4545 /* ToDoList */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToDoList;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	59874143135B39EA008E4545 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	59874144135B39EA008E4545 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
